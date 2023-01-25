@@ -294,6 +294,10 @@ label[for="bt_menu"] {
         position: absolute;
         border: 2px solid #FA5858;
     }
+    
+    #carrosel img{
+    height: 300px;
+    }
 
     #slide img {
         width: 100%;
