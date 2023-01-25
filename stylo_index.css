@@ -323,7 +323,7 @@ label[for="bt_menu"] {
         width: 95%;
         margin: 20px 2.5%;
         margin-top: 1%;
-        min-height: auto;
+        height: auto;
         /* display: grid; */
         display: flex;
         /* flex-flow: row wrap; */
