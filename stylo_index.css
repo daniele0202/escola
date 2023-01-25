@@ -1441,8 +1441,8 @@ background-color: #68ca80;
 */
 
     #noticias {
-        width: 80%;
-        margin: 0 10%;
+        width: 70%;
+        margin: 0 15%;
         height: auto;
         /* display: grid; */
         display: flex;
