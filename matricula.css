@@ -1,0 +1,118 @@
+#matricula #corpo {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    /* display: grid;  */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 100px;
+    /* flex-flow: row wrap; */
+    /* border-top: 5px solid rgb(76, 108, 167); */
+}
+
+.cartaz {
+    width: 40%;
+    float: left;
+    /* width: 600px; */
+    display: flex;
+    height: auto;
+    margin-left: 0px;
+}
+
+.cartaz .cartaz1 {
+    width: 100%;
+    padding: 30px;
+    /* height: 500px; */
+    /* padding-top: 0px; */
+    z-index: 2;
+    /* position: absolute; */
+
+}
+
+
+#corpo #formulario {
+    width: 40%;
+    height: 500px;
+    /* margin: 0 auto; */
+    padding: 80px 50px 50px;
+
+}
+
+#matricula h3 {
+    text-align: center;
+    background-color: rgb(21, 107, 177);
+    color: beige;
+    padding: 15px;
+    margin: 50px 0 0;
+}
+
+#form2 .btmat {
+    background-color: rgb(23, 84, 163);
+    border: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px 30px;
+    font-size: 18px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#form2 label {
+    font-size: 25px;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    #corpo {
+        width: 100%;
+        height: auto;
+        /* margin: 0 auto; */
+        /* display: grid;  */
+        /* display: flex;
+       flex-wrap: wrap;
+        justify-content:space-evenly; */
+
+        /* flex-flow: row wrap; */
+        /* border-top: 5px solid rgb(76, 108, 167); */
+    }
+
+    .cartaz {
+        width: 80%;
+        float: left;
+
+        display: flex;
+        height: auto;
+        margin-left: 0px;
+    }
+
+
+
+    #corpo #formulario {
+        width: 90%;
+        margin: 0;
+
+
+    }
+
+
+    #form2 .btmat {
+        background-color: rgb(23, 84, 163);
+        border: none;
+        text-align: center;
+        align-items: center;
+        color: rgb(255, 255, 255);
+        padding: 15px 30px;
+        font-size: 18px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+
+    #form2 .btmat:hover {
+        background-color: rgb(139, 158, 182);
+
+    }
+
+}

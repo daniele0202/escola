@@ -1,0 +1,163 @@
+﻿
+
+
+/* -------------------------- feira de ciencias --------------------*/
+ 
+@media screen and (max-width: 768px) {
+
+    .title {
+       margin: 0 auto;
+        text-align: center;
+         color: black;
+         text-decoration: none;
+         font-size: 30px;
+         
+    }
+    
+    .img-cie{
+        width: 50%;
+        margin: 1%;
+    }
+
+
+    #imgens {
+        width: 90%;
+        margin: 0 auto;
+      
+    }
+    
+    .imgs{
+        width: 90%;
+        margin: 0 auto 30px;
+       
+        
+    }
+
+    #imgens img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    h3{
+        text-align: center;
+        color: coral;
+    }
+
+    #t4{
+        color: darkgreen;
+        text-align: center;
+    }
+
+    #imgens p{
+        color: black;
+        text-align: justify;
+    }
+    #assunto_feira h3, p{
+        color: rgb(29, 28, 28);
+        text-align: justify;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+
+
+
+}
+
+
+@media screen and (min-width: 768px) {
+
+#corpo-feira{
+ width: 100%;
+ height:1000px;
+ 
+ position: relative;
+}
+
+
+#imgens{
+    width: 80%;
+    margin: 0 auto;
+    background-color: ;
+}
+
+.title{
+    margin: 0 35%;
+     color: black;
+     text-decoration: none;
+     font-size: 50px;
+}
+
+.img-cie{
+    width: 22%;
+    margin: 1%;
+}
+
+#t5{
+color: green;
+}
+
+#t4{
+color: blue;
+}
+
+#assunto_feira{
+    width: 80%;
+   
+    /* height: 400px; */
+    margin: 40px auto 100px;
+    /* margin-top: 5%; */
+   margin-bottom: 20px;
+    /* background-color: #ccc; */
+}
+
+#assunto_feira h1{
+    color: blue;
+}
+
+#assunto_feira p{
+    color: rgb(29, 28, 28);
+    font-size: 20px;
+}
+
+}
+
+/* fim feira ciências -----------------------*/
+
+
+
+
+
+/* ---------------------------------------------------------------- */
+
+
+#imgrecicle{
+    width: 15%;
+    margin: 0 10%;
+    float: left;
+
+}                         /* RECICLAGEM */
+#imgrecicle2{
+    width: 30%;
+    margin: 0 auto;
+   margin-bottom: 5%;
+
+}
+#tit-img{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+#tit-2{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: #FF4500;
+}
+#texto{
+    color: black;
+    font-size: 20px;
+    width: 90%;
+    margin-bottom: 30px;
+
+}
