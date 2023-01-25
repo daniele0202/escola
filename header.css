@@ -99,6 +99,7 @@ label[for="bt_menu"] {
     }
 
     header {
+         overflow-x: hidden;
         width: 100%;
         height: auto;
         /* background-color: rgb(207, 102, 102);     */
