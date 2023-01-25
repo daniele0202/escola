@@ -148,7 +148,7 @@ label[for="bt_menu"] {
     }
 
     .open {
-        width: 100%;
+        width: 90%;
         padding: 25px;
         background-color: rgba(46, 44, 43, 0.836);
         color: white;
