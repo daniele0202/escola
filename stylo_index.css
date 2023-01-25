@@ -1401,22 +1401,22 @@ background-color: #68ca80;
         margin-top: 10px;
         float: right;
         background-color: #2e2a2abd;
-        animation: infinite;
+/*         animation: infinite; */
 
     }
 
-    #historia img:hover {
+/*     #historia img:hover {
         width: 400px;
         transition: 1000ms linear;
         transition-duration: 4s;
-        transition-delay: 2s;
+        transition-delay: 2s; */
         box-shadow: 0 0px 0px 0 rgba(104, 104, 104, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
 
         -webkit-transform: translateX(-4px);
         transform: translateX(-4px);
         transition: 1000ms linear;
 
-    }
+    } */
 
 
     #historia p {
