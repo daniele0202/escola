@@ -1451,7 +1451,7 @@ background-color: #68ca80;
         /* background-position: inherit; */
         padding: 20px;
         padding-bottom: 50PX;
-        background-color: #0e4468; 
+/*         background-color: #0e4468;  */
     }
 
     #noticias h6 {
@@ -1670,8 +1670,8 @@ img .ondas-png {
 
 .bt {
     /* width: 23%; */
-    width: 350px;
-    height: 320px;
+    width: 300px;
+    height: 300px;
     z-index: 2;
     /* border: 2px solid rgb(247, 244, 244); */
     background-color: rgba(250, 245, 245, 0.356);
