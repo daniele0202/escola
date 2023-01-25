@@ -1405,9 +1405,9 @@ background-color: #68ca80;
 
     }
 
-/*     #historia img:hover {
-        width: 400px;
-        transition: 1000ms linear;
+   #historia img:hover {
+        width: 380px;
+       /* transition: 1000ms linear;
         transition-duration: 4s;
         transition-delay: 2s; */
         box-shadow: 0 0px 0px 0 rgba(104, 104, 104, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
@@ -1416,11 +1416,11 @@ background-color: #68ca80;
         transform: translateX(-4px);
         transition: 1000ms linear;
 
-    } */
+    } 
 
 
     #historia p {
-        text-align: center;
+/*         text-align: center; */
         text-align: justify;
         margin-top: 50px;
         font: 400 23px Arial;
