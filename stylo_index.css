@@ -461,6 +461,8 @@ label[for="bt_menu"] {
 
 #janela-formulario #cartaz{
     /* background-color: #62a0a0; */
+Width:80%
+margin: 0 auto;
     height: 300px;
     padding-top: 20px;
 }
