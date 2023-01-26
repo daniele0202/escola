@@ -124,7 +124,7 @@ label[for="bt_menu"] {
 
     body {
         max-width: 100%;
-        overflow-x: hidden;
+      /*  overflow-x: hidden;*/
     }
 
    
@@ -1041,7 +1041,7 @@ footer {
 
     body {
         margin: 0 auto;
-        overflow-x: hidden;
+        /*overflow-x: hidden;*/
         max-width: 100%;
         background-color: rgb(168, 162, 162);
     }
