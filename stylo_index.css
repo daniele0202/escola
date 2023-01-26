@@ -710,6 +710,51 @@ font-size: 24px;
     }
 
 
+
+   #modal2 {
+        display:flex;
+        visibility: visible;
+        text-align: center;
+        columns: 1;
+        padding-bottom: 30PX;
+    }
+
+    #titulo2 {
+        /* width: 100%; */
+        /* margin: 0 auto; */
+        padding-top: 20px;
+       justify-content: center;
+       /* padding-top: 20px; */
+       margin: 0;
+        align-items: center;
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 28px;
+        font-weight: 600;
+        font-family: 'Anton', sans-serif;
+        /* padding: 20px; */
+              /* border-bottom: 2px solid #ccc; */
+    }
+
+    #link{
+        margin: 10px 0;
+        padding: 10px;
+        color: rgb(29, 28, 28);
+        font-weight: 500;
+        font-size: 25px;
+        background-color: rgba(231, 228, 228, 0.644);
+        border-radius: 5px;
+    }
+
+    #link:hover{
+        color: rgb(247, 241, 241);
+        font-weight: 500;
+        font-size: 25px;
+    }
+
+
+
+
 }
 
 /* ----------FIM @MEDIA  972px--------------------- */
