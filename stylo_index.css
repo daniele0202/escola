@@ -877,7 +877,7 @@ HEADER
 
   /* PARTE II  */
     #modal2 {
-        display:block;
+        display:flex;
         visibility: visible;
         text-align: center;
         columns: 1;
