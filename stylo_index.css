@@ -370,7 +370,7 @@ label[for="bt_menu"] {
         margin-top: 5px;
         margin: 10px auto;
         align-items: center;
-        border-radius: 5px;
+        border-radius: 8px;
     }
 
     #menua a.c1 {
@@ -434,7 +434,7 @@ label[for="bt_menu"] {
  /*   FORMULARIO   */
 
  #janela-formulario {
-    width: 90%;
+    width: 300px;
     /* height: auto; */
     /* margin-top: 20px; */
     /* background-color: #9db7d8; */
