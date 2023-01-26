@@ -434,12 +434,12 @@ label[for="bt_menu"] {
  /*   FORMULARIO   */
 
  #janela-formulario {
-    width: 100%;
+    width: 90%;
     /* height: auto; */
     /* margin-top: 20px; */
     /* background-color: #9db7d8; */
     /* position: absolute; */
-    margin: 0;
+    margin: 0 auto;
     padding-bottom: 0;
     margin-bottom: 0;
 }
@@ -448,7 +448,7 @@ label[for="bt_menu"] {
 
 .form {
     width: 80%;
-    /* margin: 0 10% 0; */
+    margin: 0 10% 0;
     height: auto;
     /* background-color: #739aaf;*/
     margin-top: 0;
