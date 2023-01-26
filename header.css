@@ -27,53 +27,6 @@ h3 {
 }
 
 
-/*  ate aqui ------------------*/
-
-
-/* 
-label[for="bt_menu"] {
-    padding: 3px;
-    margin-top: 50px;
-    float: right; 
-    /* margin-left: 0px; 
-    background-color: #222;
-    color: #fff;
-    font-family: 'Arial';
-    text-align: center;
-    font-size: 30px;
-    cursor: pointer;
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
-    /* position: absolute;   
-    
-}
-
-#bt_menu {
-    display: none;
-
-}
-
-label[for="bt_menu"] {
-    display: none;
-
-}
- */
-
-
-/* 
- #logo img{
-    width: 80px;
-} */
-
-
-/* 
-#menu{
-    width: auto;
-   
-    height: 60px;
-  
-} */
 
 
 
@@ -118,7 +71,7 @@ label[for="bt_menu"] {
         height: 90px;
         float: left;
         
-        margin: 15px 100px;
+        margin: 15px 50px;
         
         /* float: left;  */
         padding: 0;
