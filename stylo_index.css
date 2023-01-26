@@ -344,7 +344,7 @@ label[for="bt_menu"] {
     #menua a {
         margin: 0 20PX;
         width: 35%;
-        height: 200px;
+        height: auto;
         list-style: none;
         text-decoration: none;
         position: relative;
@@ -365,6 +365,7 @@ label[for="bt_menu"] {
     #menua img {
         width: 100%;
         height: 120px;
+        padding: 10px;
         margin: 0 auto;
         margin-top: 5px;
         margin: 10px auto;
